@@ -1,0 +1,16 @@
+#Library/Tools Version
+- Python - v3.6.7
+- numpy - 1.14.3
+- pandas - 0.23.0
+- imagenet_utils
+- re
+- os
+- time
+- keras - 2.2.4
+- Keras-preprocessing - v1.0.5
+- tensorflow - 1.12
+- PIL/Pillow - 5.1.0
+- matplotlib - 2.2.2
+- seaborn - 0.8.1
+- scikit-learn - 0.20.1
+
